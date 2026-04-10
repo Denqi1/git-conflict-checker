@@ -1,0 +1,25 @@
+{
+  "name": "git-conflict-checker",
+  "version": "1.0.0",
+  "description": "A CLI tool for checking conflicts between branches locally without switching branches",
+  "keywords": [
+    "cli",
+    "git",
+    "conflicts"
+  ],
+  "homepage": "https://github.com/Denqi1/git-conflict-checker#readme",
+  "bugs": {
+    "url": "https://github.com/Denqi1/git-conflict-checker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denqi1/git-conflict-checker.git"
+  },
+  "license": "MIT",
+  "author": "Denqi1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
